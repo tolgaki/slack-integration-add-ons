@@ -1,7 +1,7 @@
-slack-integration-add-ons
+Slack Add Ons
 =========================
 
 Small integration add ons for Slack.
 
-# Stock.php
+# stock.php (/stock command)
 
