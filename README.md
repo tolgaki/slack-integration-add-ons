@@ -1,4 +1,4 @@
-Slack Add Ons
+Simple Slack Add Ons
 =========================
 
 Small integration add ons for Slack.
