@@ -1,7 +1,8 @@
 Simple Slack Add Ons
 =========================
 
-Small integration add ons for Slack.
+Simple and small integration add ons for Slack.
 
-# stock.php (/stock command)
+### stock.php (/stock command)
+**Usage:** /stock msft, aapl **or** /stock msft aapl 
 
