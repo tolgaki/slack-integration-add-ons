@@ -5,7 +5,7 @@
 
 $input = file_get_contents('php://input');
 $lines = explode("&", $input);
-$security_token = "kFA2U0lSn4iMmAJeAQeEP9Ru";
+$security_token = "YOUR_TOKEN";
 $token = "";
 $command = "";
 $text = "";
